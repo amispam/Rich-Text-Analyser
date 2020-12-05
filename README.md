@@ -9,10 +9,10 @@
 <td>1</td><td>Main Block</td><td>Running programme</td>
 </tr>
 <tr>
- <td>2</td><td>Block chain</td><td>Contains block files</td>
+ <td>2</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/BlockChain">Block chain</a></td><td>Contains block files</td>
   </tr>
 <tr>
-<td>3</td><td>Resources</td><td>Contains sample text</td></tr>
+<td>3</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/Resources">Resources</a></td><td>Contains sample text</td></tr>
 </table>
 <h1>Block chain content</h1>
 <table>
