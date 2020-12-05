@@ -6,7 +6,7 @@
 <h2>Block content</h2>
 <table><th>#</th><th>Blocks</th><th>purpose</th>
 <tr>
-<td>1</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/main%20block">Main Block</a></td><td>Running programme</td>
+<td>1</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/main%20block">Main Block</a></td><td> `Running programme` </td>
 </tr>
 <tr>
  <td>2</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/BlockChain">Block chain</a></td><td>Contains block files</td>
