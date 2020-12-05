@@ -1,8 +1,8 @@
 # Rich-Text-Analyser
 <p align="center">
-<img src="https://github.com/amispam/Rich-Text-Analyser/raw/main/IMG/8cd8232b-e956-465f-a33f-cd2995e8fe4d_200x200.png" alt="avatar" height="150" width="150">
-</p>
-<strong>This repository is built for the purpose of analysing text(in a mathematical sense).</strong>
+<img src="https://github.com/amispam/Rich-Text-Analyser/raw/main/IMG/8cd8232b-e956-465f-a33f-cd2995e8fe4d_200x200.png" alt="avatar" height="150" width="150"><br/>
+This repository is built for the purpose of analysing text.</p>
+[Run a demo](https://repl.it/@Rohit199/RichTextAnalyser?lite=true&outputonly=1)
 <h2>Block content</h2>
 <table><th>#</th><th>Blocks</th><th>purpose</th>
 <tr>
