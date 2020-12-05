@@ -1,9 +1,6 @@
 # Rich-Text-Analyser
 <strong>This repository is built for the purpose of analysing text(in a mathematical sense).</strong>
-<div>
-<h2>Content</h2>
-<table>
-<th>#</th><th>Blocks</th><th>purpose</th>
+<table><th>#</th><th>Blocks</th><th>purpose</th>
 <tr>
 <td>1</td><td>Main Block</td><td>Running programme</td>
 </tr>
@@ -13,7 +10,6 @@
 <tr>
 <td>3</td><td>Resources</td><td>Contains sample text</td></tr>
 <hr>
-<h2>Block Chain content</h2>
 <table>
 <th>#</th><th>Block chain</th><th>purpose</th>
 <tr><td>1</td><td>Absolute and line</td><td>To return absolute value, and to return points of line.</td></tr>
@@ -25,7 +21,7 @@
 <tr><td>7</td><td></td><td></td></tr>
 <tr><td>8</td><td></td><td></td></tr>
 </table>
-</div>
+
 absAndLine.py
 1 hour ago
 absAndLine.py
