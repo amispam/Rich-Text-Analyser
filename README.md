@@ -2,17 +2,33 @@
 <p align="center">
 <img src="https://github.com/amispam/Rich-Text-Analyser/raw/main/IMG/8cd8232b-e956-465f-a33f-cd2995e8fe4d_200x200.png" alt="avatar" height="150" width="150"><br/>
 This repository is built for the purpose of analysing text.</p>
+
+
 [Run a demo](https://repl.it/@Rohit199/RichTextAnalyser?lite=true&outputonly=1)
+
+
 <h2>Block content</h2>
 <table><th>#</th><th>Blocks</th><th>purpose</th>
 <tr>
-<td>1</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/main%20block">Main Block</a></td><td> `Running programme` </td>
+<td>1</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/main%20block">Main Block</a></td><td>
+
+`Running programme`
+
+</td>
 </tr>
 <tr>
- <td>2</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/BlockChain">Block chain</a></td><td>Contains block files</td>
+ <td>2</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/BlockChain">Block chain</a></td><td>
+
+`Contains block files`
+
+</td>
   </tr>
 <tr>
-<td>3</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/Resources">Resources</a></td><td>Contains sample text</td></tr>
+<td>3</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/tree/main/Resources">Resources</a></td><td>
+
+`Contains sample text`
+
+</td></tr>
 </table>
 <h1>Block chain content</h1>
 <table>
