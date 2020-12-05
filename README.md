@@ -1,5 +1,5 @@
 # Rich-Text-Analyser
-This repository is built for the purpose of mathematically analysing .
+This repository is built for the purpose of analysing text(mathematically).
 <div>
 <table>
 <th>#</th><th>Blocks</th><th>purpose</th>
