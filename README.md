@@ -43,3 +43,13 @@ This repository is built for the purpose of analysing text.</p>
 <tr><td>8</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/splitJoin.py">SplitJoin</a></td><td>To split string or to join array items</td></tr>
 <tr><td>9</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/swap.py">Swap</a></td><td>Interchanging positions</td></tr>
 </table>
+
+
+## `finder` and it's arguments
+
+> `finder(file.txt,argument 1, argument 2)` is central pillar of text analyzer, which is responsible for reading and analysing data.
+
+Where `argument1` can take two values, one is `rCount` which is responsible for giving repetition count.
+Second is `iCount` which is responsible for giving index count, **keep in mind that finder is receiving standardised text from `arrange` function.**
+Now `argument2` which is actually third argument of `finder`, can also take two values. One is `0` other is `1` .
+You can manage your output using `argument2` .
