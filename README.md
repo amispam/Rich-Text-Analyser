@@ -21,7 +21,7 @@
 <tr><td>2</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/arrange.py">Arrange</a></td><td>Standardising data</td></tr>
 <tr><td>3</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/extract.py">Extract</a></td><td>Extracting content from an array</td></tr>
 <tr><td>4</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/finder.py">Finder</a></td><td>Reading and analysing data</td></tr>
-<tr><td>5</td><td> Linear fitting</td><td>Finding best linear fit for analysed data</td></tr>
+<tr><td>5</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/linearFitting.py">Linear fitting</a></td><td>Finding best linear fit for analysed data</td></tr>
 <tr><td>6</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/mapper.py">Mapper</a></td><td>To map different arrays</td></tr>
 <tr><td>7</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/minMax.py">MinMax</a></td><td>To return minimum of maximum</td></tr>
 <tr><td>8</td><td><a href="https://github.com/amispam/Rich-Text-Analyser/blob/main/BlockChain/splitJoin.py">SplitJoin</a></td><td>To split string or to join array items</td></tr>
