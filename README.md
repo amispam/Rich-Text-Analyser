@@ -51,5 +51,8 @@ This repository is built for the purpose of analysing text.</p>
 
 Where `argument1` can take two values, one is `rCount` which is responsible for giving repetition count.
 Second is `iCount` which is responsible for giving index count, **keep in mind that finder is receiving standardised text from `arrange` function.**
+
+<hr>
+
 Now `argument2` which is actually third argument of `finder`, can also take two values. One is `0` other is `1` .
 You can manage your output using `argument2` .
